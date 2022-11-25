@@ -17,47 +17,47 @@
 
 ### Topologi
 
-![image](https://i.ibb.co/NNdfYCX/Capture1.png)
+![image](https://raw.githubusercontent.com/Chroax/Jarkom-Modul-4-B11-2022/main/image/CIDR/topologi.PNG)
 
 ### Topologi-subnet
 
-![image](https://i.ibb.co/NNdfYCX/Capture1.png)
+![image](https://raw.githubusercontent.com/Chroax/Jarkom-Modul-4-B11-2022/main/image/CIDR/topologi-subnet.PNG)
 
 ### Langkah
 
 #### Step-1
 
-![image](https://i.ibb.co/NNdfYCX/Capture1.png)
+![image](https://raw.githubusercontent.com/Chroax/Jarkom-Modul-4-B11-2022/main/image/CIDR/Step/step-1.PNG)
 
 #### Step-2
-![image](https://i.ibb.co/NNdfYCX/Capture1.png)
+![image](https://raw.githubusercontent.com/Chroax/Jarkom-Modul-4-B11-2022/main/image/CIDR/Step/step-2.PNG)
 
 #### Step-3
-![image](https://i.ibb.co/NNdfYCX/Capture1.png)
+![image](https://raw.githubusercontent.com/Chroax/Jarkom-Modul-4-B11-2022/main/image/CIDR/Step/step-3.PNG)
 
 #### Step-4
-![image](https://i.ibb.co/NNdfYCX/Capture1.png)
+![image](https://raw.githubusercontent.com/Chroax/Jarkom-Modul-4-B11-2022/main/image/CIDR/Step/step-4.PNG)
 
 #### Step-5
-![image](https://i.ibb.co/NNdfYCX/Capture1.png)
+![image](https://raw.githubusercontent.com/Chroax/Jarkom-Modul-4-B11-2022/main/image/CIDR/Step/step-5.PNG)
 
 #### Step-6
-![image](https://i.ibb.co/NNdfYCX/Capture1.png)
+![image](https://raw.githubusercontent.com/Chroax/Jarkom-Modul-4-B11-2022/main/image/CIDR/Step/step-6.PNG)
 
 #### Step-7
-![image](https://i.ibb.co/NNdfYCX/Capture1.png)
+![image](https://raw.githubusercontent.com/Chroax/Jarkom-Modul-4-B11-2022/main/image/CIDR/Step/step-7.PNG)
 
 ### CIDR
 
-![image](https://i.ibb.co/NNdfYCX/Capture1.png)
+![image](https://raw.githubusercontent.com/Chroax/Jarkom-Modul-4-B11-2022/main/image/CIDR/CIDR.PNG)
 
 ### Tree
 
-![image](https://i.ibb.co/NNdfYCX/Capture1.png)
+![image](https://raw.githubusercontent.com/Chroax/Jarkom-Modul-4-B11-2022/main/image/CIDR/tree.PNG)
 
 ### CIDR-IP
 
-![image](https://i.ibb.co/NNdfYCX/Capture1.png)
+![image](https://raw.githubusercontent.com/Chroax/Jarkom-Modul-4-B11-2022/main/image/CIDR/topografi.PNG)
 
 ### Konfigurasi Node
 - **ThePerformance**
