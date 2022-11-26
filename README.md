@@ -530,3 +530,4 @@ Testing dari Server ke Server
     ```
 
 ## Kendala
+- Ketika sedang testing di CPT sering kali failed
