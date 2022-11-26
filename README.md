@@ -42,10 +42,12 @@ Setelah dilakukan pembagian subnetting, lakukan pembagian IP Address menggunakan
 ![Tabloid - 2](https://user-images.githubusercontent.com/81427127/204076578-737821ac-b2eb-45f2-b217-1a34fafbf4c2.png)
 
 Gunakan prefix IP ```192.178.X.X```, dimulai dari 192.178.0.0/20 kemudian bagi menjadi dua bagian, lakukan cara yang sama sampai 192.178.x.x/30.
+
 ### VLSM-IP
 ![VLSM_IP](https://user-images.githubusercontent.com/81427127/204076679-f7d72c05-106a-42d4-8cb0-8fe97ea69a38.png)
 
 ![CPT](https://user-images.githubusercontent.com/81427127/204076756-a5d24b48-5952-4747-ad14-bbeb5c506977.png)
+
 ### Testing
 Testing di The Minister, The Order, dan The Resonance
 
@@ -58,6 +60,26 @@ Testing di The Magical, The Dauntless, dan The Instrument
 Testing di The Profound, The Firefist, dan The Queen
 
 <img width="423" alt="Screenshot_20221126_021008" src="https://user-images.githubusercontent.com/81427127/204076991-2a4c13fd-eb9b-4b76-aaf0-fd614c14c1cf.png">
+
+Testing dari Client ke Client
+
+<img width="423" alt="Screenshot_20221126_021008" src="https://user-images.githubusercontent.com/90445721/204094370-582ac19e-a596-4fd2-a0eb-f3fcbdc37be1.jpg">
+
+Testing dari Router ke Router
+
+<img width="422" alt="router - router" src="https://user-images.githubusercontent.com/90445721/204094396-f7076004-7755-45a5-8cfd-12b3e4efb6b9.png">
+
+Testing dari Client ke Router Terdekat
+
+<img width="422" alt="router - router" src="https://user-images.githubusercontent.com/90445721/204094663-ec8e922b-892d-426f-95ba-8c7d17648333.png">
+
+Testing dari Client ke Server
+
+<img width="423" alt="Screenshot_20221126_021008" src="https://user-images.githubusercontent.com/90445721/204094436-e9955470-8e03-49bd-b949-11c698cf99a2.jpg">
+
+Testing dari Server ke Server
+
+<img width="423" alt="Screenshot_20221126_021008" src="https://user-images.githubusercontent.com/90445721/204094454-62f7d7b0-9777-48f7-82aa-eca248e3b0b3.jpg">
 
 ## CIDR
 
