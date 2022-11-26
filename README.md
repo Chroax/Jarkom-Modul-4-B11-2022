@@ -23,7 +23,7 @@ Buat topologi jaringan yang sesuai yaitu dengan mengatur IP Address pada setiap 
 Kemudian buat plotting subnettingnya,
 ![Frame 2](https://user-images.githubusercontent.com/81427127/204076497-c1447a0e-622d-4f5a-a2a8-5b3445005841.png)
 
-<img width="273" alt="Screenshot_20221126_015736" src="https://user-images.githubusercontent.com/81427127/204076523-f1e05ad9-1f8e-4196-9e29-1a7bf2fd1618.png">
+![IP](https://user-images.githubusercontent.com/81427127/204076523-f1e05ad9-1f8e-4196-9e29-1a7bf2fd1618.png)
 
 ### Tree
 Setelah dilakukan pembagian subnetting, lakukan pembagian IP Address menggunakan tree pada setiap interface yang ada.
@@ -31,8 +31,21 @@ Setelah dilakukan pembagian subnetting, lakukan pembagian IP Address menggunakan
 
 Gunakan prefix IP ```192.178.X.X```, dimulai dari 192.178.0.0/20 kemudian bagi menjadi dua bagian, lakukan cara yang sama sampai 192.178.x.x/30.
 ### VLSM-IP
+![VLSM_IP](https://user-images.githubusercontent.com/81427127/204076679-f7d72c05-106a-42d4-8cb0-8fe97ea69a38.png)
 
+![CPT](https://user-images.githubusercontent.com/81427127/204076756-a5d24b48-5952-4747-ad14-bbeb5c506977.png)
 ### Testing
+Testing di The Minister, The Order, dan The Resonance
+
+<img width="418" alt="Screenshot_20221126_020803" src="https://user-images.githubusercontent.com/81427127/204076978-bb772149-d4c1-4483-9598-9ebb83ea5b64.png">
+
+Testing di The Magical, The Dauntless, dan The Instrument
+
+<img width="422" alt="Screenshot_20221126_020921" src="https://user-images.githubusercontent.com/81427127/204076984-d7e17c11-085b-44f3-b94d-3a0915a7a329.png">
+
+Testing di The Profound, The Firefist, dan The Queen
+
+<img width="423" alt="Screenshot_20221126_021008" src="https://user-images.githubusercontent.com/81427127/204076991-2a4c13fd-eb9b-4b76-aaf0-fd614c14c1cf.png">
 
 ## CIDR
 
