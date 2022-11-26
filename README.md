@@ -16,11 +16,17 @@
 ## VLSM
 
 ### Topologi
+Buat topologi jaringan yang sesuai yaitu dengan mengatur IP Address pada setiap interface yang ada.
 ![soal shift 4 1](https://user-images.githubusercontent.com/81427127/204072322-ff196756-c748-4ae5-a024-d0fa631687dc.png)
 
 ### Langkah
+Kemudian buat plotting subnettingnya,
+![Frame 1](https://user-images.githubusercontent.com/81427127/204072562-157a0bc4-bc25-4afa-87c0-511ccb8215b8.png)
+<img width="318" alt="Screenshot_20221126_114804" src="https://user-images.githubusercontent.com/81427127/204072711-7772898b-a19e-4c2a-a386-67eb00b3a18a.png">
 
 ### Tree
+Setelah dilakukan pembagian subnetting, lakukan pembagian IP Address menggunakan tree pada setiap interface yang ada.
+![Tabloid - 1](https://user-images.githubusercontent.com/81427127/204072752-e3a8a67b-47e2-4520-add6-286f3c1f8548.png)
 
 ### VLSM-IP
 
