@@ -49,18 +49,6 @@ Gunakan prefix IP ```192.178.X.X```, dimulai dari 192.178.0.0/20 kemudian bagi m
 ![CPT](https://user-images.githubusercontent.com/81427127/204076756-a5d24b48-5952-4747-ad14-bbeb5c506977.png)
 
 ### Testing
-Testing di The Minister, The Order, dan The Resonance
-
-<img width="418" alt="Screenshot_20221126_020803" src="https://user-images.githubusercontent.com/81427127/204076978-bb772149-d4c1-4483-9598-9ebb83ea5b64.png">
-
-Testing di The Magical, The Dauntless, dan The Instrument
-
-<img width="422" alt="Screenshot_20221126_020921" src="https://user-images.githubusercontent.com/81427127/204076984-d7e17c11-085b-44f3-b94d-3a0915a7a329.png">
-
-Testing di The Profound, The Firefist, dan The Queen
-
-<img width="423" alt="Screenshot_20221126_021008" src="https://user-images.githubusercontent.com/81427127/204076991-2a4c13fd-eb9b-4b76-aaf0-fd614c14c1cf.png">
-
 Testing dari Client ke Client
 
 <img width="423" alt="Screenshot_20221126_021008" src="https://user-images.githubusercontent.com/90445721/204094370-582ac19e-a596-4fd2-a0eb-f3fcbdc37be1.jpg">
