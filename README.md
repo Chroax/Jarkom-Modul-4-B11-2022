@@ -16,6 +16,7 @@
 ## VLSM
 
 ### Topologi
+![soal shift 4 1](https://user-images.githubusercontent.com/81427127/204072322-ff196756-c748-4ae5-a024-d0fa631687dc.png)
 
 ### Langkah
 
