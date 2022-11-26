@@ -17,17 +17,17 @@
 
 ### Topologi
 Buat topologi jaringan yang sesuai yaitu dengan mengatur IP Address pada setiap interface yang ada.
-![soal shift 4 1](https://user-images.githubusercontent.com/81427127/204072322-ff196756-c748-4ae5-a024-d0fa631687dc.png)
+<img width="667" alt="Screenshot_20221126_015456" src="https://user-images.githubusercontent.com/81427127/204076456-ece05689-f9cd-4641-9525-08db09af198a.png">
 
 ### Plotting Subnetting
 Kemudian buat plotting subnettingnya,
-![Frame 1](https://user-images.githubusercontent.com/81427127/204072562-157a0bc4-bc25-4afa-87c0-511ccb8215b8.png)
+![Frame 2](https://user-images.githubusercontent.com/81427127/204076497-c1447a0e-622d-4f5a-a2a8-5b3445005841.png)
 
-<img width="318" alt="Screenshot_20221126_114804" src="https://user-images.githubusercontent.com/81427127/204072711-7772898b-a19e-4c2a-a386-67eb00b3a18a.png">
+<img width="273" alt="Screenshot_20221126_015736" src="https://user-images.githubusercontent.com/81427127/204076523-f1e05ad9-1f8e-4196-9e29-1a7bf2fd1618.png">
 
 ### Tree
 Setelah dilakukan pembagian subnetting, lakukan pembagian IP Address menggunakan tree pada setiap interface yang ada.
-![Tabloid - 1](https://user-images.githubusercontent.com/81427127/204072752-e3a8a67b-47e2-4520-add6-286f3c1f8548.png)
+![Tabloid - 2](https://user-images.githubusercontent.com/81427127/204076578-737821ac-b2eb-45f2-b217-1a34fafbf4c2.png)
 
 Gunakan prefix IP ```192.178.X.X```, dimulai dari 192.178.0.0/20 kemudian bagi menjadi dua bagian, lakukan cara yang sama sampai 192.178.x.x/30.
 ### VLSM-IP
